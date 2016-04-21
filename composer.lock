@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "3751b9298e882c47c4b284a01dc9710b",
+    "hash": "0ab60299bf0e7147bbb5ba5367cb89f2",
     "content-hash": "76d4f880a3a18dae8d5b7720e224da67",
     "packages": [
         {
@@ -334,16 +334,16 @@
         },
         {
             "name": "pattern-lab/core",
-            "version": "v0.6.11",
+            "version": "v0.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pattern-lab/patternlab-php-core.git",
-                "reference": "c2c4bc6a8bda2b2f9c08b197669ebc94c025e7c6"
+                "reference": "473a17bf0448bbdfdc676ed5658891eca83a4e8c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pattern-lab/patternlab-php-core/zipball/c2c4bc6a8bda2b2f9c08b197669ebc94c025e7c6",
-                "reference": "c2c4bc6a8bda2b2f9c08b197669ebc94c025e7c6",
+                "url": "https://api.github.com/repos/pattern-lab/patternlab-php-core/zipball/473a17bf0448bbdfdc676ed5658891eca83a4e8c",
+                "reference": "473a17bf0448bbdfdc676ed5658891eca83a4e8c",
                 "shasum": ""
             },
             "require": {
@@ -390,7 +390,7 @@
                 "style guide",
                 "styleguide"
             ],
-            "time": "2015-03-08 01:32:06"
+            "time": "2016-04-18 14:27:27"
         },
         {
             "name": "pattern-lab/patternengine-twig",
