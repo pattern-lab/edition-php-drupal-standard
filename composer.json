@@ -28,6 +28,20 @@
             "PatternLab":   "core/src/"
         }
     },
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/drupal-pattern-lab/patternlab-php-core"
+      },
+      {
+        "type": "vcs",
+        "url": "https://github.com/drupal-pattern-lab/patternengine-php-twig"
+      },
+      {
+        "type": "vcs",
+        "url": "https://github.com/drupal-pattern-lab/styleguidekit-twig-default"
+      }
+    ],
     "require": {
         "php": ">=5.5.9",
         "pattern-lab/core": "^2.7.0",
